@@ -1,0 +1,6 @@
+configuration:  
+  projectName: hrConfigEurekaClient
+server:
+  port: 8002
+message:
+  greeting: Hello from the hr configuration!

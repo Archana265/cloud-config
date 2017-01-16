@@ -1,0 +1,7 @@
+configuration:  
+  projectName: employeeConfigEurekaClient
+server:
+  port: 8005
+message:
+  greeting: Hello from the employee configuration!
+  

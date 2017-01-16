@@ -1,0 +1,6 @@
+configuration:  
+  projectName: departmentConfigEurekaClient
+server:
+  port: 8003
+message:
+  greeting: Hello from the department configuration!
